@@ -1,0 +1,46 @@
+.wrapper {
+    width: 700px;
+    margin: auto;
+    text-align: center;
+}
+
+img {
+    width: 100%;
+}
+
+header, h1 {
+    height: 80px;
+    background-color: #EBE4E1;
+    /*light brown*/
+    margin: 0;
+}
+
+nav {}
+
+body {
+    background-image: url('cork-wallet.png');
+    margin: 0;
+}
+
+footer {
+    height: 45px;
+    background-color: #EBE4E1;
+    /*light brown*/
+    margin: 0;
+}
+
+a:link {
+    color: #946657;
+}
+
+a:visited {
+    color: brown;
+}
+
+a:hover {
+    color: purple;
+}
+
+a:active {
+    color: pink;
+}
